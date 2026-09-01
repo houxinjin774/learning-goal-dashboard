@@ -1,0 +1,12 @@
+# 工作台记忆（项目内部数据）
+.workbuddy/
+
+# 临时抓取/调试数据快照（非产物）
+clone_work/*_content.json
+clone_work/*_now.json
+clone_work/*_query.json
+
+# IDE 系统文件
+.DS_Store
+.idea/
+.vscode/
